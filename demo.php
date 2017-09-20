@@ -10,6 +10,10 @@
 				{
 					"name": "vihar",
 					"from": "rajkot"
+				},
+				{
+					"name": "vicky",
+					"from": "mehsana"
 				}
 			]
 
